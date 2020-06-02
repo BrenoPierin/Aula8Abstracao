@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.exe
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.deps.json
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.runtimeconfig.json
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.dll
+C:\Breno USA\Senai\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.pdb
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.dll
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.pdb
+C:\Breno USA\Senai\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.genruntimeconfig.cache
